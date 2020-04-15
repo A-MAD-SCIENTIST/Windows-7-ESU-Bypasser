@@ -1,5 +1,6 @@
 # Windows-7-ESU-Bypasser
 Gives you paid Windows 7 Extended Security Updates until January 2023, for free. I have decided to compile and fix this from other sources. Those "other" sources include manually going to download and install the updates, which I am too lazy to do 😂 So this one will show up in Windows Updates.
+![Security](https://i.imgur.com/iD6CcbZ.png)
 
 # Prerequisites
 
