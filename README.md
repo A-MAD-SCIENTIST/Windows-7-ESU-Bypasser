@@ -32,6 +32,6 @@ And if you installed January 2020 Security Only update KB4534314, or the fix upd
 
 Download 'Windows 7 Bypasser' that has been attached, move both .EXE and Bin file into a folder, i.e. Desktop.
 
-Run as Admin and just follow the instructions in the software, lmao.
+Run "Windows 7 Bypasser.exe" as Admin and just follow the instructions in the software, lmao.
 
 To uninstall, just see the options in the software.
